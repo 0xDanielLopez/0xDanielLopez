@@ -4,7 +4,7 @@ I'm Daniel López, a Telecommunications Engineer from Seville, Spain.
 
 I love Computers & Internet and I try to make my humble contribution to make them safer for the users. That's why I'm Security Analyst.
 <br>
-### Some projects
+### Some side projects
 
 * [TweetFeed.live](https://tweetfeed.live/) | [TweetFeed repo](https://github.com/0xDanielLopez/TweetFeed)
 * [phishunt.io](https://phishunt.io/) | [@phishunt_io](https://twitter.com/phishunt_io) | [phishing_kits](https://github.com/0xDanielLopez/phishing_kits)
