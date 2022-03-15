@@ -6,11 +6,8 @@ I love Computers & Internet and I try to make my humble contribution to make the
 <br>
 ### Some projects
 
-* [phishunt.io](https://phishunt.io/) | [@phishunt_io](https://twitter.com/phishunt_io) | [phishing_kits](https://github.com/0xDanielLopez/phishing_kits)
 * [TweetFeed.live](https://tweetfeed.live/) | [TweetFeed repo](https://github.com/0xDanielLopez/TweetFeed)
-* [WebScreenshot](https://github.com/0xDanielLopez/WebScreenshot)
-* [pwn_check](https://github.com/0xDanielLopez/pwn_check)
-* [@cryptosUSD](https://twitter.com/cryptosUSD) | [@cryptosEUR](https://twitter.com/cryptosEUR) | [@cryptosAlerting](https://twitter.com/cryptosAlerting)
+* [phishunt.io](https://phishunt.io/) | [@phishunt_io](https://twitter.com/phishunt_io) | [phishing_kits](https://github.com/0xDanielLopez/phishing_kits)
 
 
 ### You can also find me on
