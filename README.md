@@ -2,7 +2,7 @@
 
 I'm Daniel López, a Telecommunications Engineer from Seville, Spain.
 
-I love Computers & Internet and I try to make my humble contribution to make them safer for the users. That's why I'm Security Analyst.
+I love Cybersecurity, building tools and technology in general.
 <br>
 ### Some side projects
 
