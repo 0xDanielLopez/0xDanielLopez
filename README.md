@@ -6,7 +6,7 @@ Love Cybersecurity & building tools.
 <br><br>
 ### Side projects
 
-* TweetFeed → [TweetFeed.live](https://tweetfeed.live/) | [GitHub](https://github.com/0xDanielLopez/TweetFeed)
+* TweetFeed → [TweetFeed.live](https://tweetfeed.live/) | [TweetFeed (repo)](https://github.com/0xDanielLopez/TweetFeed) | [TweetFeed (code)](https://github.com/0xDanielLopez/TweetFeed_code)
 * phishunt.io → [phishunt.io](https://phishunt.io/) | [@phishunt_io](https://twitter.com/phishunt_io) | [phishing_kits](https://github.com/0xDanielLopez/phishing_kits)
 
 
