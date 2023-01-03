@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/ETH%20Address-blue?style=for-the-badge&logo=ethereum&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xDanielLopez&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats-ksih.vercel.app
+/api?username=0xDanielLopez&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515" />
 <br><br>
   I'm Daniel López, a Security Engineer from Seville, Spain. Love Cybersecurity and building tools.
  </div>
