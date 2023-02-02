@@ -1,25 +1,21 @@
-## Hey there! 👋
+## 👋 Hey there! 
 <div align="center">
-  <a href="https://twitter.com/0xDanielLopez" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/0xDanielLopez?style=for-the-badge&label=Twitter&logo=twitter&logoColor=00AEFF&labelColor=black&color=1DA1F2">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/0xDanielLopez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-  
-  <a href="https://etherscan.io/address/0xd3ba313cae412725921f07e12f878d2b49e4f758" target="_blank">
-    <img src="https://img.shields.io/badge/ETH%20Address-blue?style=for-the-badge&logo=ethereum&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
+
+  I'm Daniel López, a Security Engineer from Seville, Spain.
 <br><br>
-  <img align="center" alt="Daniel Lopez's Github Stats" src="https://github-readme-stats-ksih.vercel.app/api?username=0xDanielLopez&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515" />
-<br><br>
-  I'm Daniel López, a Security Engineer from Seville, Spain. Love Cybersecurity and building tools.
- </div>
+Love Cybersecurity and building tools.
+  <br>
+<p align="center">
+    <b>
+    <a href="https://twitter.com/0xDanielLopez">Twitter</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/0xDanielLopez/TweetFeed_code">LinkedIn</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="https://daniel.tools">Links</a>
+    </b>
+</p>
  <hr>
 
-### Side projects
+| phishunt.io | TweetFeed.live | StakeWatcher.com |
+| ----------- | ----------------------- | ------------- |
+| [<img src="phishunt.PNG" alt="phishunt.io" width="240">](https://phishunt.io/) | [<img src="TweetFeed.PNG" alt="TweetFeed.live" width="240">](https://tweetfeed.live) | [<img src="StakeWatcher.PNG" alt="StakeWatcher.com" width="240">](https://stakewatcher.com) |
 
-* [TweetFeed.live](https://tweetfeed.live/) → Feeds of <b>Indicators Of Compromise</b> (IOCs) shared at Twitter.
-* [phishunt.io](https://phishunt.io/) → Feed of suspicious <b>phishing</b> websites.
-* [StakeWatcher.com](https://stakewatcher.com) → Telegram bot that monitors <b>Staking</b> options at <b>Binance</b>.
+</div>
