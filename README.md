@@ -1,7 +1,7 @@
 ## 👋 Hey there! 
 <div align="center">
 
-  I'm Daniel López, a Security Engineer from Seville, Spain.
+  I'm Daniel López, a Cyber Threat Researcher from Seville, Spain.
 <br><br>
 Love Cybersecurity and building tools.
   <br>
@@ -14,8 +14,8 @@ Love Cybersecurity and building tools.
 </p>
  <hr>
 
-| phishunt.io | TweetFeed.live | StakeWatcher.com |
-| ----------- | ----------------------- | ------------- |
-| [<img src="phishunt.PNG" alt="phishunt.io" width="240">](https://phishunt.io/) | [<img src="TweetFeed.PNG" alt="TweetFeed.live" width="240">](https://tweetfeed.live) | [<img src="StakeWatcher.PNG" alt="StakeWatcher.com" width="240">](https://stakewatcher.com) |
+| phishunt.io | TweetFeed.live |
+| ----------- | ----------------------- |
+| [<img src="phishunt.PNG" alt="phishunt.io" width="240">](https://phishunt.io/) | [<img src="TweetFeed.PNG" alt="TweetFeed.live" width="240">](https://tweetfeed.live) |
 
 </div>
